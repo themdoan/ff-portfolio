@@ -11,3 +11,14 @@ flowchart LR;
  backend-->db[(Database)];
  end
 ```
+
+### Tech stack
+- frontend
+  + nextjs
+  + cloudflare
+- serverless
+  + aws lambda function
+
+- database
+  + aws memcache
+  + mongodb atlas
